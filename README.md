@@ -4,7 +4,7 @@
 
 ### Because I'm obsessed with learning, I also like to play around with Python, Go, and write games in Godot.  I practice algorithms sometimes too, because I ❤️ clean, optimized, readable code.
 
-#### 💻 I'm currently recreating my 2D space shooter made in GMS2 to a 3D space shooter (with additional bells and whistles) in Godot
+#### 💻 I'm currently recreating my 2D space shooter made in GMS2 to a 3D space shooter in Godot
 
 #### 🌱 I'm currently learning Go, Python, and GDScript (Godot)
 
