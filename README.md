@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Amy!
 
-## I'm a software programmer with professional experience writing JavaScript and Typescript.  I utilize React, Koa, Amazon DynamoDB, AWS Lambda, Terraform, and other things to make cool stuff happen in the cloud ☁️
+## I'm a software programmer with professional experience writing in JavaScript and Typescript.  I utilize React, Koa, Amazon DynamoDB, AWS Lambda, Terraform, and other things to make cool stuff happen in the cloud ☁️
 
-### Because I'm obsessed with learning, I also like to play around with Python, Go, and write games in Godot.  I practice algorithms sometimes too, because I ❤️ clean, optimized, readable code.
+### Because I'm obsessed with learning, I also like to play around with Python and Go.  I practice algorithms sometimes too, because I ❤️ clean, optimized, readable code.
 
-#### 💻 I'm currently recreating my 2D space shooter made in GMS2 to a 3D space shooter in Godot
+#### 💻 I'm currently creating a space shooter in React (fun portfolio project!)
 
 #### 🌱 I'm currently learning Go, Python, and GDScript (Godot)
 
