@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amy!
 
-## I'm a software programmer with professional experience writing in JavaScript and Typescript.  I utilize React, Koa, Amazon DynamoDB, AWS Lambda, Terraform, and other things to make cool stuff happen in the cloud ☁️
+## I'm a software engineer with professional experience writing in JavaScript and Typescript.  I utilize React, Koa, Amazon DynamoDB, AWS Lambda, Terraform, and other things to make cool stuff happen in the cloud ☁️
 
 ### Because I'm obsessed with learning, I also like to play around with Python and Go.  I practice algorithms sometimes too, because I ❤️ clean, optimized, readable code.
 
