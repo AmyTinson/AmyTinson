@@ -3,11 +3,11 @@
 ## I'm a software developer with professional experience coding in JavaScript and Typescript.  I utilize React, Koa, Amazon DynamoDB, AWS Lambda, and other things to make cool stuff happen in the cloud ☁️
 
 ### Because I'm obsessed with learning, I also like to play around with Python, Go, and Ruby.
-### I practice algorithms sometimes too, because I ❤️ clean, optimized, readable code.
+### I [practice algorithms](https://github.com/AmyTinson/leet-code) sometimes too, because I ❤️ clean, optimized, readable code.
 
 #### 💻 I'm currently creating a [game in React](https://github.com/AmyTinson/diy-game-engine) (a fun side project!)
 
-#### 🌱 I'm also currently learning Go, Python, and Ruby 💎
+#### 🌱 I'm also [currently learning](https://exercism.org/profiles/AmyTinson) Go, Python, and Ruby 💎
 > I've started using [exercism.org](https://exercism.org/) and it's a pretty great resource for those of you who learn best by doing!
 
 #### 👯 I'm looking to contribute to open source projects
