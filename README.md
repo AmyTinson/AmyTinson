@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amy!
 
-## I'm a software engineer with professional experience coding in JavaScript and Typescript. ☕
+## I'm a software engineer with professional experience coding in JavaScript and TypeScript. ☕
 ### I utilize React and AWS to make cool stuff happen in the cloud ☁️
 
 #### 🌱 Because I'm obsessed with learning, I'm playing around with Go, Python, and Rust 🦀
