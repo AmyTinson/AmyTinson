@@ -1,12 +1,5 @@
 # 👋 Hi, I'm Amy!
 
-## I'm a software engineer with professional experience coding in JavaScript and TypeScript. ☕
-### I utilize React and AWS to make cool stuff happen in the cloud ☁️
-
-#### 🌱 Because I'm obsessed with learning, I'm playing around with Go, Python, Ruby, and Rust 🦀
-
-#### I [practice algorithms](https://github.com/AmyTinson/leet-code) sometimes too, because I ❤️ clean, optimized, readable code.
-
 #### 👯 I'm looking to contribute to open source projects
 
 ### Let's get in touch:
