@@ -6,6 +6,7 @@ I enjoy building systems that make engineers more effective — from improving o
 
 ### Currently building
 - **Forge** — a Go-based CLI for developer workflow automation and structured bug triage
+- **Sipping Stardust** — a simple blog about code, dirt, and small sips of wonder
 
 ### Interests
 - Developer tooling & automation
