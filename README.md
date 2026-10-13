@@ -16,7 +16,6 @@ I enjoy building systems that make engineers more effective — from improving o
 ### Also exploring
 - Go
 - Python
-- AWS
 
 ### Currently building
 - **Forge** — a Go-based CLI for developer workflow automation and structured bug triage
